@@ -34,11 +34,6 @@ body {
   }
 }
 
-.iconColor {
-  /* color: #FFC107;
-  margin-top: 10px; */
-}
-
 .resultsHero {
   max-height: 285px; 
   height: 22vw;
@@ -47,15 +42,6 @@ body {
   background-position-y: 25%;
   border-radius: 0 0 3vw 3vw;
   position: relative;
-}
-
-.backBtn {
-  /* color: #FFFFFF;
-  text-transform: none;
-  font-weight: bold;
-  margin-left: 6.5vw;
-  font-size: 0.75rem;
-  margin-top: 0.5vw; */
 }
 
 .votes {
@@ -104,16 +90,6 @@ body {
   width: 100%;
   border-radius: 5%;
   filter: drop-shadow(black 3px 3px 3px);
-}
-
-.trailerBtn {
-  /* background-color: #5179ff;
-  padding: 1vw;
-  height: 3.9vw;
-  border-radius: 2vw;
-  width: 14vw;
-  position: absolute;
-  bottom: 0; */
 }
 
 .relaseInfo {
