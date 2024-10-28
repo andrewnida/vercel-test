@@ -35,8 +35,8 @@ body {
 }
 
 .iconColor {
-  color: #FFC107;
-  margin-top: 10px;
+  /* color: #FFC107;
+  margin-top: 10px; */
 }
 
 .resultsHero {
@@ -50,12 +50,12 @@ body {
 }
 
 .backBtn {
-  color: #FFFFFF;
+  /* color: #FFFFFF;
   text-transform: none;
   font-weight: bold;
   margin-left: 6.5vw;
   font-size: 0.75rem;
-  margin-top: 0.5vw;
+  margin-top: 0.5vw; */
 }
 
 .votes {
