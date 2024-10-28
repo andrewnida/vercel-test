@@ -3,7 +3,7 @@ import { TMDB } from 'tmdb-ts';
 
 
 // Create Client
-const client = new TMDB(process.env.TMDB_KEY);
+const client = new TMDB(process.env.TMDB_KEY ?? '');
 
 // Wrapper for search to elastic search
 const searchMovie = async (query: string, year: number) => {
