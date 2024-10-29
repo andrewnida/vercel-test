@@ -155,7 +155,7 @@ const Home = () => {
               '&:hover': {
                 backgroundColor: 'rgba(97, 105, 141, 0.2)'
               },
-              color: '#FFC107',
+              color: '#FFC107!important',
               marginTop: '10px',
               }}>
                 <span style={{transition: "opacity 0.4s ease", textTransform: "none", color:"white", opacity: hasText ? 1 : 0.5}}>Search</span>
